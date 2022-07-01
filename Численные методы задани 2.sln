@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Численные методы задани 2", "Численные методы задани 2\Численные методы задани 2.csproj", "{871BAB64-38E9-4CA7-95A2-CCA56A623D2C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{871BAB64-38E9-4CA7-95A2-CCA56A623D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871BAB64-38E9-4CA7-95A2-CCA56A623D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871BAB64-38E9-4CA7-95A2-CCA56A623D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871BAB64-38E9-4CA7-95A2-CCA56A623D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CC6E98DD-D819-4F7E-A445-09B0633E42F8}
+	EndGlobalSection
+EndGlobal
